@@ -73,10 +73,7 @@ Students = [
 // My website description
 
 
-// 	Bhai sab se pehle api banegi Signup phir login 
-// 		Signup me ye restiction hogi koi aur bahir ka banda nahi askta sab se pehle aik secret key hogi hard codded wo dalega phir signup hosakta hai
-
-// 	phir login karna hai
+// 	Bhai website ke andar jane ka sirf aik hi tareeqa hai jo k banda aik secret key dalega jo ke hardcoded hogi phir hi banda webiste k andar ja sakta hai warna nahi
 
 // 	Phir aik aur api banegi jo student ko add karegi
 
