@@ -63,4 +63,28 @@ Students = [
 			},
 		],
 	},
-]
+];
+
+
+
+
+
+
+// My website description
+
+
+// 	Bhai sab se pehle api banegi Signup phir login 
+// 		Signup me ye restiction hogi koi aur bahir ka banda nahi askta sab se pehle aik secret key hogi hard codded wo dalega phir signup hosakta hai
+
+// 	phir login karna hai
+
+// 	Phir aik aur api banegi jo student ko add karegi
+
+// 	Phir aik api banagi jo sara ka sara student ka data le kar aaigi
+
+// 	Phir aik aur api banage jo Student ke name se us ka data filter kar ke leakar aige
+
+// 	Phir aik aur api banegi jo Month ke dekhe gi k aj k month agar 1 se zyada hai to use sab se pehle unpaid wale array me dalegi
+
+// 	Phir aik aur api banegi jis me pese donga phir us k bad unpaid me se untne paise chale jainge aur paid me ajainge
+
